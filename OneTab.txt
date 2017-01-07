@@ -1,0 +1,553 @@
+https://www.google.co.uk/search?q=Angular+2+Services&oq=Angular+2+Services&aqs=chrome..69i57j69i60&sourceid=chrome&ie=UTF-8 | Angular 2 Services - Google Search
+https://angular.io/docs/ts/latest/tutorial/toh-pt4.html | Services - ts - TUTORIAL
+https://www.tutorialspoint.com/angular2/angular2_services.htm | Angular 2 Services
+http://blog.thoughtram.io/angular/2015/09/17/resolve-service-dependencies-in-angular-2.html | Understanding @Injectable in Angular by thoughtram
+
+http://blog.regehr.org/archives/1453 | A Tourist’s Guide to the LLVM Source Code – Embedded in Academia
+
+http://colah.github.io/posts/2015-09-Visual-Information/ | Visual Information Theory -- colah's blog
+
+http://mattwarren.org/2016/12/12/Research-papers-in-the-.NET-source/ | Research papers in the .NET source · Performance is a Feature!
+
+https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.q4t06jj2w
+http://cs231n.stanford.edu/ | Stanford University CS231n: Convolutional Neural Networks for Visual Recognition
+http://cs231n.github.io/assignments2016/assignment1/ | CS231n Convolutional Neural Networks for Visual Recognition
+http://cs231n.stanford.edu/syllabus.html | Stanford University CS231n: Convolutional Neural Networks for Visual Recognition
+
+http://8bitworkshop.com/?platform=vcs&file=examples%2Flines | 8bitworkshop ~ Atari 2600
+https://news.ycombinator.com/item?id=13254342 | Show HN: 8bitworkshop IDE for Atari 2600 | Hacker News
+
+http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api#json-requests | Best Practices for Designing a Pragmatic RESTful API | Vinay Sahni
+https://www.asp.net/web-api/overview/older-versions/build-restful-apis-with-aspnet-web-api | Build RESTful API's with ASP.NET Web API | The ASP.NET Site
+https://blogs.msdn.microsoft.com/martinkearn/2015/01/05/introduction-to-rest-and-net-web-api/ | Introduction to REST and .net Web API – Martin Kearn
+http://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm | Fielding Dissertation: CHAPTER 5: Representational State Transfer (REST)
+https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html | HTTP/1.1: Method Definitions
+https://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html | HTTP/1.1: Header Field Definitions
+https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html | HTTP/1.1: Status Code Definitions
+https://www.asp.net/web-api/overview/web-api-routing-and-actions/attribute-routing-in-web-api-2 | Attribute Routing in ASP.NET Web API 2 | The ASP.NET Site
+https://www.asp.net/web-api/overview/web-api-routing-and-actions/create-a-rest-api-with-attribute-routing | Create a REST API with Attribute Routing in ASP.NET Web API 2 | The ASP.NET Site
+https://en.wikipedia.org/wiki/HATEOAS | HATEOAS - Wikipedia
+
+https://angular.io/docs/ts/latest/guide/appmodule.html | AppModule: the root module - ts - GUIDE
+https://angular.io/docs/ts/latest/guide/displaying-data.html | Displaying Data - ts - GUIDE
+https://angular.io/docs/ts/latest/guide/user-input.html | User Input - ts - GUIDE
+https://angular.io/docs/ts/latest/guide/forms.html | Forms - ts - GUIDE
+https://angular.io/docs/ts/latest/guide/dependency-injection.html | Dependency Injection - ts - GUIDE
+https://angular.io/docs/ts/latest/guide/template-syntax.html | Template Syntax - ts - GUIDE
+https://angular.io/docs/ts/latest/guide/cheatsheet.html | Cheat Sheet - ts - GUIDE
+https://angular.io/docs/ts/latest/guide/style-guide.html | Style Guide - ts - GUIDE
+https://angular.io/docs/ts/latest/guide/glossary.html | Glossary - ts - GUIDE
+
+http://blog.angular-university.io/introduction-to-angular-2-forms-template-driven-vs-model-driven/ | Angular 2 Forms: Template Driven vs Model Driven
+http://blog.angular-university.io/angular2-router/ | Angular 2 Router Introduction - Child And Auxiliary Routes - Pitfalls
+http://blog.angular-university.io/introduction-to-angular-2-fundamentals-of-components-events-properties-and-actions/ | Angular 2 Components - An Introduction
+http://blog.angular-university.io/how-to-build-angular2-apps-using-rxjs-observable-data-services-pitfalls-to-avoid/ | How to build Angular App with Observable Data Services - Pitfalls
+
+http://www.hanselman.com/blog/ExploringWyamANETStaticSiteContentGenerator.aspx | Exploring Wyam - a .NET Static Site Content Generator - Scott Hanselman
+https://github.com/Wyamio/Wyam | Wyamio/Wyam: A modular static content and static site generator.
+http://wyam.io/ | Wyam - A simple to use, highly modular, and extremely configurable static content generator
+
+http://edw519.posthaven.com/it-takes-6-days-to-change-1-line-of-code | It Takes 6 Days to Change 1 Line of Code - Ed Weissman
+
+http://stackoverflow.com/questions/25490641/check-how-many-elements-are-equal-in-two-numpy-arrays-python | check how many elements are equal in two numpy arrays python - Stack Overflow
+http://stackoverflow.com/questions/13323851/python-3-counting-matches-in-two-lists-including-duplicates | Python 3 - counting matches in two lists (including duplicates) - Stack Overflow
+http://stackoverflow.com/questions/1388818/how-can-i-compare-two-lists-in-python-and-return-matches | How can I compare two lists in python and return matches - Stack Overflow
+http://stackoverflow.com/questions/37979785/counting-match-between-two-arrays-at-same-index-position-and-having-non-zero-val | python - Counting match between two arrays at same index position and having non zero values - Stack Overflow
+
+https://www.google.co.uk/search?q=algorithm+for+generating+words+from+integers&oq=algorithm+for+generating+words+from+integers&aqs=chrome..69i57.8670j0j7&sourceid=chrome&ie=UTF-8#q=algorithm+convert+number+to+words+python | algorithm convert number to words python - Google Search
+http://stackoverflow.com/questions/8982163/how-do-i-tell-python-to-convert-integers-into-words | How do I tell Python to convert integers into words - Stack Overflow
+http://stackoverflow.com/questions/19504350/how-to-convert-numbers-to-words-in-python | How to Convert numbers to Words in Python - Stack Overflow
+https://www.quora.com/How-do-I-convert-numbers-to-words-in-Python | How do I convert numbers to words in Python? - Quora
+http://stackoverflow.com/questions/3299619/algorithm-that-converts-numeric-amount-into-english-words | language features - Algorithm that converts numeric amount into English words - Stack Overflow
+http://stackoverflow.com/questions/6951913/algorithm-to-take-a-number-and-output-its-english-word | c - Algorithm to take a number and output its English word - Stack Overflow
+http://www.blackwasp.co.uk/numbertowords.aspx | Convert A Number into Words
+http://www.madhur.co.in/blog/2014/07/28/convertnumbertoword.html | Algorithm: Convert number to word – Madhur Ahuja
+http://javahungry.blogspot.com/2014/05/convert-math-number-to-equivalent-readable-word-in-java-code-with-example.html | How to Convert Math Number to Equivalent Readable Word in Java : Code with Example | Java Hungry
+https://answers.yahoo.com/question/index?qid=20090325082153AAOKjUK | Algorithm for Number to word? | Yahoo Answers
+http://www.geeksforgeeks.org/convert-number-to-words/ | Program to convert a given number to words - GeeksforGeeks
+http://codereview.stackexchange.com/questions/30525/convert-number-to-words | c++ - Convert number to words - Code Review Stack Exchange
+
+https://en.wikipedia.org/wiki/Stochastic_gradient_descent | Stochastic gradient descent - Wikipedia
+http://www.statisticsviews.com/details/feature/5722691/Getting-to-the-Bottom-of-Regression-with-Gradient-Descent.html | Getting to the Bottom of Regression with Gradient Descent - Statistics Views
+
+http://blog.alexellis.io/hardened-raspberry-pi-nas/ | Create a hardened Raspberry Pi NAS
+
+https://github.com/Microsoft/CNTK/wiki/Activation-Functions | Activation Functions · Microsoft/CNTK Wiki
+https://github.com/Microsoft/CNTK/wiki | Home · Microsoft/CNTK Wiki
+https://www.cntk.ai/pythondocs/search.html?q=progressprinter&check_keywords=yes&area=default | Search — Python API for CNTK 2.0.beta5.0 documentation
+https://www.cntk.ai/pythondocs/layerref.html | Layers Library Reference — Python API for CNTK 2.0.beta5.0 documentation
+https://www.cntk.ai/pythondocs/cntk.trainer.html | cntk.trainer package — Python API for CNTK 2.0.beta5.0 documentation
+https://www.cntk.ai/pythondocs/cntk.ops.html | cntk.ops package — Python API for CNTK 2.0.beta5.0 documentation
+https://www.cntk.ai/pythondocs/cntk.html#module-cntk.cntk_py | cntk package — Python API for CNTK 2.0.beta5.0 documentation
+https://www.cntk.ai/pythondocs/cntk.utils.html | cntk.utils package — Python API for CNTK 2.0.beta5.0 documentation
+
+https://www.troyhunt.com/ubiquiti-all-the-things-how-i-finally-fixed-my-dodgy-wifi/ | Troy Hunt: Ubiquiti all the things: how I finally fixed my dodgy wifi
+
+https://www.siliconmilkroundabout.com/home | Silicon Milkroundabout: the London tech jobs fair
+https://www.siliconmilkroundabout.com/guides | Silicon Milkroundabout: London's tech jobs fair
+
+https://docs.continuum.io/anaconda/ide_integration#pycharm | How to set up an IDE to use Anaconda | Continuum Analytics: Documentation
+
+https://evolpin.wordpress.com/2012/10/12/the-cors/ | The CORS | I Came, I Learned, I Blogged
+
+https://www.google.co.uk/search?q=owin+authentication&oq=owin+&aqs=chrome.3.69i57j0l5.6095j0j7&sourceid=chrome&ie=UTF-8 | owin authentication - Google Search
+https://weblog.west-wind.com/posts/2015/Apr/29/Adding-minimal-OWIN-Identity-Authentication-to-an-Existing-ASPNET-MVC-Application | Adding minimal OWIN Identity Authentication to an Existing ASP.NET MVC Application - Rick Strahl's Web Log
+https://blogs.msdn.microsoft.com/webdev/2013/07/03/understanding-owin-forms-authentication-in-mvc-5/ | Understanding OWIN Forms authentication in MVC 5 | .NET Web Development and Tools Blog
+https://www.asp.net/aspnet/overview/owin-and-katana/owin-oauth-20-authorization-server | OWIN OAuth 2.0 Authorization Server | The ASP.NET Site
+https://www.google.co.uk/search?q=authorizeattribute+multiple+roles&oq=AuthorizeAttribute&aqs=chrome.2.69i57j0l5.3430j0j7&sourceid=chrome&ie=UTF-8 | authorizeattribute multiple roles - Google Search
+http://stackoverflow.com/questions/700166/allow-multiple-roles-to-access-controller-action | asp.net mvc - Allow multiple roles to access controller action - Stack Overflow
+http://stackoverflow.com/questions/24181888/authorize-attribute-with-multiple-roles | c# - Authorize Attribute with Multiple Roles - Stack Overflow
+http://stackoverflow.com/questions/24738624/asp-net-mvc-authorize-user-with-many-roles | c# - ASP.NET MVC Authorize user with many roles - Stack Overflow
+http://stackoverflow.com/questions/20139519/multiple-roles-in-controller-action | c# - Multiple roles in Controller action - Stack Overflow
+http://stackoverflow.com/questions/6404254/mvc-3-dynamic-authorization-of-multiple-roles-and-users | c# - MVC 3 dynamic authorization of multiple roles and users - Stack Overflow
+
+https://github.com/ZuzooVn/machine-learning-for-software-engineers#machine-learning-is-fun | ZuzooVn/machine-learning-for-software-engineers: A complete daily plan for studying to become a machine learning engineer.
+
+https://www.bloomberg.com/news/articles/2016-11-07/steve-ballmer-s-plan-to-make-america-great-involves-excel-spreadsheets | Steve Ballmer’s Plan to Make America Great Involves Excel Spreadsheets - Bloomberg
+
+http://www.nytimes.com/2016/11/23/theater/how-to-master-an-accent.html?_r=0 | How to Master an Accent - The New York Times
+
+https://www.bloomberg.com/news/features/2016-11-29/the-man-who-invented-libor-iw3fpmed | The Man Who Invented Libor - Bloomberg
+
+https://www.google.co.uk/search?q=fizz+buzz+tensorflow&oq=fizz+buzz+tensorflow&aqs=chrome..69i57j0.5964j0j7&sourceid=chrome&ie=UTF-8 | fizz buzz tensorflow - Google Search
+http://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/ | Joel Grus – Fizz Buzz in Tensorflow
+https://github.com/joelgrus/fizz-buzz-tensorflow/blame/master/fizz_buzz.py | fizz-buzz-tensorflow/fizz_buzz.py at master · joelgrus/fizz-buzz-tensorflow
+
+http://blog.irvingwb.com/blog/2016/10/is-ai-finally-reaching-a-tipping-point.html | Irving Wladawsky-Berger: Has AI (Finally) Reached a Tipping Point?
+https://www.infoq.com/presentations/spotify-culture-stc?utm_source=infoqWeeklyNewsletter&utm_medium=WeeklyNL_EditorialContent_culture-methods&utm_campaign=10252016news#downloadPdf | There is No Spotify Model
+
+http://stackoverflow.com/questions/4752626/epoch-vs-iteration-when-training-neural-networks | terminology - Epoch vs iteration when training neural networks - Stack Overflow
+http://stackoverflow.com/questions/31155388/meaning-of-an-epoch-in-neural-networks-training | machine learning - Meaning of an Epoch in Neural Networks Training - Stack Overflow
+https://neuralsniffer.wordpress.com/2010/09/15/how-many-epochs-to-train-standalone-nn/ | How many epochs to train? (standalone NN) | Neural Sniffer
+https://www.quora.com/What-is-the-difference-between-iterations-and-epochs-in-Convolution-neural-networks | What is the difference between iterations and epochs in Convolution neural networks? - Quora
+https://www.researchgate.net/post/How_does_one_choose_optimal_number_of_epochs | How does one choose optimal number of epochs? - ResearchGate
+https://www.google.co.uk/search?q=neural+network+training+batch+size&oq=neural+network+training+batc&aqs=chrome.0.0j69i57j0l3.9056j0j7&sourceid=chrome&ie=UTF-8 | neural network training batch size - Google Search
+http://stats.stackexchange.com/questions/153531/what-is-batch-size-in-neural-network | python - What is batch size in neural network? - Cross Validated
+http://stats.stackexchange.com/questions/140811/how-large-should-the-batch-size-be-for-stochastic-gradient-descent | machine learning - How large should the batch size be for stochastic gradient descent? - Cross Validated
+https://www.quora.com/Intuitively-how-does-mini-batch-size-affect-the-performance-of-stochastic-gradient-descent | Intuitively, how does mini-batch size affect the performance of (stochastic) gradient descent? - Quora
+https://www.quora.com/Intuitively-how-does-batch-size-impact-a-convolutional-network-training | Intuitively, how does batch size impact a convolutional network training? - Quora
+https://visualstudiomagazine.com/articles/2014/08/01/batch-training.aspx | Understanding Neural Network Batch Training: A Tutorial -- Visual Studio Magazine
+
+https://jekyllrb.com/docs/configuration/ | Configuration - Jekyll • Simple, blog-aware, static sites
+
+https://www.tensorflow.org/versions/r0.10/get_started/index.html | Introduction
+https://www.tensorflow.org/versions/r0.10/get_started/basic_usage.html | Basic Usage
+https://www.tensorflow.org/versions/r0.10/tutorials/mnist/tf/index.html | TensorFlow Mechanics 101
+https://www.tensorflow.org/versions/r0.10/tutorials/mnist/pros/index.html | Deep MNIST for Experts
+https://www.tensorflow.org/versions/r0.10/tutorials/mnist/beginners/index.html | MNIST For ML Beginners
+http://colah.github.io/posts/2015-08-Backprop/ | Calculus on Computational Graphs: Backpropagation -- colah's blog
+http://colah.github.io/posts/2015-09-Visual-Information/ | Visual Information Theory -- colah's blog
+http://colah.github.io/posts/2014-10-Visualizing-MNIST/ | Visualizing MNIST: An Exploration of Dimensionality Reduction - colah's blog
+https://www.tensorflow.org/versions/r0.10/tutorials/mnist/tf/index.html | TensorFlow Mechanics 101
+
+https://github.com/Microsoft/CNTk/wiki/CNTK-Evaluation-Overview | CNTK Evaluation Overview · Microsoft/CNTK Wiki
+http://stackoverflow.com/questions/37799327/how-to-run-cntk-c-sharp-evaldll-wrapper-program-on-gpu | How to run CNTK c# EvalDLL Wrapper program on GPU? - Stack Overflow
+https://github.com/Microsoft/CNTK/tree/master/Examples/Evaluation/CSEvalClient | CNTK/Examples/Evaluation/CSEvalClient at master · Microsoft/CNTK
+
+http://mattwarren.org/2016/08/08/GC-Pauses-and-Safe-Points/ | GC Pauses and Safe Points · Performance is a Feature!
+http://mattwarren.org/2016/06/20/Visualising-the-dotNET-Garbage-Collector/ | Visualising the .NET Garbage Collector · Performance is a Feature!
+https://news.ycombinator.com/item?id=12821586 | Sub-millisecond GC pauses in Go 1.8 | Hacker News
+
+https://sidbala.com/h-264-is-magic/ | H.264 is magic: a technical walkthrough of a remarkable technology.
+https://www.youtube.com/playlist?list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf | MIT 6.851 Advanced Data Structures, Spring 2012 - YouTube
+http://www.indeed.co.uk/prime | Indeed Prime | Indeed.co.uk
+chrome-search://local-ntp/local-ntp.html | New Tab
+
+http://www.nybooks.com/daily/2016/11/10/trump-election-autocracy-rules-for-survival/ | Autocracy: Rules for Survival | by Masha Gessen | NYR Daily | The New York Review of Books
+https://hbr.org/2016/11/what-so-many-people-dont-get-about-the-u-s-working-class | What So Many People Don’t Get About the U.S. Working Class
+https://medium.com/@NewEcon/re-imagining-europe-v7-63a87db63c79#.un6z5kd3h | Re-Imagining Europe v7 – Medium
+
+http://www.citylab.com/politics/2016/11/the-reality-of-rural-resentment/507659/?utm_source=nl__link3_111616 | The Role of Rural Resentment in Trump's Victory - CityLab
+https://msdn.microsoft.com/magazine/mt790184 | .NET Framework - What's New in C# 7.0
+
+https://github.com/Microsoft/CNTK | Microsoft/CNTK: Microsoft Cognitive Toolkit (CNTK)
+https://github.com/Microsoft/CNTK/wiki | Home · Microsoft/CNTK Wiki
+https://github.com/Microsoft/CNTK/wiki/CNTK-Docker-Containers | CNTK Docker Containers · Microsoft/CNTK Wiki
+https://github.com/Microsoft/CNTK/wiki/CNTK-on-Azure | CNTK on Azure · Microsoft/CNTK Wiki
+https://github.com/Microsoft/CNTK/wiki/Setup-Windows-Binary-Manual | Setup Windows Binary Manual · Microsoft/CNTK Wiki
+https://www.microsoft.com/en-us/research/product/cognitive-toolkit/ | The Microsoft Cognitive Toolkit - Microsoft Research
+
+https://www.theatlantic.com/science/archive/2016/11/quantum-brain/506768/ | Can Quantum Physics Explain Consciousness? - The Atlantic
+https://www.theatlantic.com/technology/archive/2016/11/the-lost-civilization-of-dial-up-bulletin-board-systems/506465/ | The Lost Civilization of Dial-Up Bulletin Board Systems - The Atlantic
+
+https://www.youtube.com/watch?v=3uhcfu-q2RE | CityStream: Update on Seattle Seawall Project - YouTube
+http://www.bbc.co.uk/food/recipes/codandchorizoorzo_90791 | BBC Food - Recipes - Cod and chorizo orzo
+http://www.bbcgoodfood.com/recipes/cod-chorizo-stew | Cod & chorizo stew | BBC Good Food
+https://realfood.tesco.com/recipes/cod-with-chorizo.html | Cod with chorizo | Tesco Real Food
+http://www.lovepotatoes.co.uk/recipes/pan-seared-cod-with-potatoes-and-chorizo/ | Pan Seared Cod with Potatoes & Chorizo | Love Potatoes
+http://www.realsimple.com/food-recipes/recipe-collections-favorites/popular-ingredients/cod-recipes/baked-cod-chorizo | Baked Cod and Chorizo | Easy Cod Recipes | Real Simple
+http://www.realsimple.com/food-recipes/browse-all-recipes/baked-cod-chorizo | Baked Cod and Chorizo Recipe | Real Simple
+http://www.goodhousekeeping.co.uk/food/recipes/cod-chorizo-tomatoes | Cod with Chorizo and Tomatoes - Good Housekeeping
+
+http://playground.tensorflow.org/#activation=tanh&batchSize=22&dataset=spiral&regDataset=reg-plane&learningRate=0.003&regularizationRate=0.01&noise=0&networkShape=8,8,8&seed=0.31677&showTestData=false&discretize=true&percTrainData=30&x=true&y=true&xTimesY=true&xSquared=true&ySquared=true&cosX=false&sinX=true&cosY=false&sinY=true&collectStats=false&problem=classification&initZero=false&hideText=false | A Neural Network Playground
+
+https://www.theguardian.com/business/2016/oct/06/liquid-assets-how--business-bottled-water-went-mad | Liquid assets: how the business of bottled water went mad | Sophie Elmhirst | Business | The Guardian
+http://www.newyorker.com/magazine/2016/10/10/imagining-a-cashless-world | Imagining a Cashless World - The New Yorker
+
+chrome://history/ | History
+
+https://golang.org/pkg/net/ | net - The Go Programming Language
+http://thenewstack.io/make-a-restful-json-api-go/ | Making a RESTful JSON API in Go - The New Stack
+https://codegangsta.gitbooks.io/building-web-apps-with-go/content/creating_a_basic_web_app/index.html | Creating a Basic Web App | Building Web Apps with Go
+https://codegangsta.gitbooks.io/building-web-apps-with-go/content/url_routing/index.html | URL Routing | Building Web Apps with Go
+https://codegangsta.gitbooks.io/building-web-apps-with-go/content/middleware/index.html | Middleware | Building Web Apps with Go
+https://codegangsta.gitbooks.io/building-web-apps-with-go/content/rendering/index.html | Rendering | Building Web Apps with Go
+https://codegangsta.gitbooks.io/building-web-apps-with-go/content/rendering/json/index.html | JSON | Building Web Apps with Go
+https://codegangsta.gitbooks.io/building-web-apps-with-go/content/rendering/html/index.html | HTML Templates | Building Web Apps with Go
+https://codegangsta.gitbooks.io/building-web-apps-with-go/content/rendering/render/index.html | Using The render package | Building Web Apps with Go
+
+https://www.safaribooksonline.com/library/view/go-building-web/9781787123496/ch01s05.html | Hello, Web - Go: Building Web Applications
+https://www.safaribooksonline.com/library/view/go-building-web/9781787123496/ch01s06.html | Summary - Go: Building Web Applications
+https://www.safaribooksonline.com/library/view/go-building-web/9781787123496/ch02.html | 2. Serving and Routing - Go: Building Web Applications
+https://www.safaribooksonline.com/library/view/go-building-web/9781787123496/ch02s02.html | Basic routing - Go: Building Web Applications
+https://www.safaribooksonline.com/library/view/go-building-web/9781787123496/ch02s03.html | Using more complex routing with Gorilla - Go: Building Web Applications
+https://www.safaribooksonline.com/library/view/go-building-web/9781787123496/ch02s04.html | Redirecting requests - Go: Building Web Applications
+https://www.safaribooksonline.com/library/view/go-building-web/9781787123496/ch02s05.html | Serving basic errors - Go: Building Web Applications
+
+https://www.safaribooksonline.com/library/view/large-scale-machine/9781785887215/ch05.html | 5. Deep Learning with TensorFlow - Large Scale Machine Learning with Python
+https://www.safaribooksonline.com/library/view/hello-tensorflow/9781491971628/ch01.html#idm139919832023344 | 1. Hello, Tensorflow! - Hello, Tensorflow!
+
+https://hackernoon.com/gos-alias-proposal-and-all-my-concerns-of-google-controlling-go-a39f6c6046aa#.ooriwso6b | Go’s alias proposal and all my concerns of Google controlling Go
+https://docs.google.com/document/d/18tNd8r5DV0yluCR7tPvkMTsWD_lYcRO7NhpNSDymRr8/edit | Go Packaging Proposal Process - Google Docs
+https://medium.com/@cep21/preemptive-interface-anti-pattern-in-go-54c18ac0668a#.4qvxss1vh | Preemptive Interface Anti-Pattern in Go – Medium
+https://github.com/golang/proposal/blob/master/design/16339-alias-decls.md | proposal/16339-alias-decls.md at master · golang/proposal
+https://groups.google.com/forum/#!topic/golang-dev/OmjsXkyOQpQ | Please do not add aliases to the language - Google Groups
+https://timeline.com/forget-self-driving-car-anxiety-in-the-early-days-human-drivers-were-the-fear-55a770262c10#.8tivxztb4 | Forget self-driving car anxiety: In the early days human drivers were the fear
+https://medium.com/@olivercameron/deep-learning-is-revolutionary-d0f3667bafa0#.4rsu78pgv | Deep Learning is Revolutionary – Medium
+
+http://www.atlasobscura.com/articles/how-a-fake-british-accent-took-old-hollywood-by-storm | How A Fake British Accent Took Old Hollywood By Storm | Atlas Obscura
+
+https://gobyexample.com/hello-world | Go by Example: Hello World
+https://gobyexample.com/values | Go by Example: Values
+https://gobyexample.com/variables | Go by Example: Variables
+https://gobyexample.com/constants | Go by Example: Constants
+https://gobyexample.com/for | Go by Example: For
+https://gobyexample.com/if-else | Go by Example: If/Else
+https://gobyexample.com/switch | Go by Example: Switch
+https://gobyexample.com/arrays | Go by Example: Arrays
+https://gobyexample.com/slices | Go by Example: Slices
+https://gobyexample.com/maps | Go by Example: Maps
+https://gobyexample.com/range | Go by Example: Range
+https://gobyexample.com/functions | Go by Example: Functions
+https://gobyexample.com/multiple-return-values | Go by Example: Multiple Return Values
+https://gobyexample.com/variadic-functions | Go by Example: Variadic Functions
+https://gobyexample.com/closures | Go by Example: Closures
+https://gobyexample.com/recursion | Go by Example: Recursion
+https://gobyexample.com/pointers | Go by Example: Pointers
+https://gobyexample.com/structs | Go by Example: Structs
+https://gobyexample.com/methods | Go by Example: Methods
+https://gobyexample.com/interfaces | Go by Example: Interfaces
+https://gobyexample.com/errors | Go by Example: Errors
+https://gobyexample.com/goroutines | Go by Example: Goroutines
+https://gobyexample.com/channels | Go by Example: Channels
+https://gobyexample.com/channel-buffering | Go by Example: Channel Buffering
+https://gobyexample.com/channel-synchronization | Go by Example: Channel Synchronization
+https://gobyexample.com/channel-directions | Go by Example: Channel Directions
+https://gobyexample.com/select | Go by Example: Select
+https://gobyexample.com/timeouts | Go by Example: Timeouts
+https://gobyexample.com/non-blocking-channel-operations | Go by Example: Non-Blocking Channel Operations
+https://gobyexample.com/closing-channels | Go by Example: Closing Channels
+https://gobyexample.com/range-over-channels | Go by Example: Range over Channels
+https://gobyexample.com/ | Go by Example
+
+https://www.wolfe.id.au/2015/03/05/using-sublime-text-for-go-development/ | Using Sublime Text for Go Development · Mark Wolfe's Blog
+http://docs.sublimetext.info/en/latest/reference/build_systems/configuration.html | Build Systems – Configuration — Sublime Text Unofficial Documentation
+https://github.com/golang/sublime-build | golang/sublime-build: The official Sublime Text package for Go build system integration.
+https://github.com/DisposaBoy/GoSublime | DisposaBoy/GoSublime: A Golang plugin collection for SublimeText **3**, providing code completion and other IDE-like features.
+
+https://www.google.fr/search?q=go+import+statement&oq=go+import+statement&aqs=chrome..69i57j69i64.3906j0j7&sourceid=chrome&ie=UTF-8 | go import statement - Google Search
+https://golang.org/ref/spec#Import_declarations | The Go Programming Language Specification - The Go Programming Language
+https://golang.org/doc/code.html | How to Write Go Code - The Go Programming Language
+
+http://www.bloomberg.com/news/articles/2016-09-08/silicon-valley-s-job-hungry-say-we-re-not-to-old-for-this | It’s Tough Being Over 40 in Silicon Valley - Bloomberg
+https://news.ycombinator.com/item?id=12454634 | It’s Tough Being Over 40 in Silicon Valley | Hacker News
+https://news.ycombinator.com/item?id=12595998 | Not Just Any Old Geek | Hacker News
+https://blog.oldgeekjobs.com/from-google-form-to-1000-in-revenue-in-one-month-3f5cd75b6089#.fni37b3os | From Google form to $1000 in revenue in one month
+
+https://www.bignerdranch.com/blog/developing-alexa-skills-locally-with-nodejs-deploying-your-skill-to-staging/ | Developing Alexa Skills Locally with Node.js: Deploying Your Skill to Staging | Big Nerd Ranch
+https://developer.amazon.com/appsandservices/community/post/Tx3DV6ANE5HTG9H/Big-Nerd-Ranch-Series-Developing-Alexa-Skills-Locally-with-Node-js-Setting-Up-Yo | Big Nerd Ranch Series: Developing Alexa Skills Locally with Node.js: Setting Up Your Local Environment (part 1 of 6) - Amazon Mobile App Distribution Blog
+https://www.hackster.io/anthony-ngu/amazon-echo-talking-to-node-js-server-89c23a | Amazon Echo talking to Node.js Server - Hackster.io
+https://www.hackster.io/amazon-alexa/products/amazon-echo | Alexa Amazon Echo projects - Hackster.io
+http://www.theverge.com/2016/9/19/12943054/google-trips-travel-app-android-ios | Google Trips is a killer travel app for the modern tourist - The Verge
+
+https://portal.azure.com/#resource/subscriptions/e518adf5-402f-4a8d-b708-28236bffc411/resourceGroups/docker-linux/overview | docker-linux - Microsoft Azure
+https://azure.microsoft.com/en-gb/documentation/articles/virtual-machines-linux-extensions-configuration-samples/ | Sample configuration for Linux VM extensions | Microsoft Azure
+https://github.com/Azure/azure-quickstart-templates/blob/b1908e74259da56a92800cace97350af1f1fc32b/201-list-storage-keys-windows-vm/azuredeploy.json/ | azure-quickstart-templates/azuredeploy.json at b1908e74259da56a92800cace97350af1f1fc32b · Azure/azure-quickstart-templates
+https://github.com/Azure/custom-script-extension-linux | Azure/custom-script-extension-linux: Azure Custom Script Virtual Machine Extension
+https://azure.microsoft.com/en-gb/documentation/articles/virtual-machines-linux-extensions-customscript/ | Custom scripts on Linux VMs | Microsoft Azure
+https://azure.microsoft.com/en-gb/documentation/articles/virtual-machines-linux-extensions-features/ | https://azure.microsoft.com/en-gb/documentation/articles/virtual-machines-linux-extensions-features/ is not available
+
+https://www.google.co.uk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=raspberry%20pi%20media%20center | raspberry pi media center - Google Search
+http://www.lifehacker.co.uk/2013/01/22/turn-raspberry-pi-xbmc-media-center-30-minutes | Turn a Raspberry Pi Into an XBMC Media Centre in Under 30 Minutes | Lifehacker UK
+http://mymediaexperience.com/raspberry-pi-xbmc-with-raspbmc/ | The Only Raspberry Pi 3 Kodi Tutorial You Will Ever Need
+http://www.alphr.com/media-centres/1000077/how-to-turn-a-raspberry-pi-into-an-xbmc-media-center-build-a-fully-functional | How to download Kodi to a Raspberry Pi 3 or Raspberry Pi Zero: Build a fully functional HD entertainment hub for under £30 | Alphr
+http://www.alphr.com/oneplus/1003726/oneplus-3-review-latest-update-hits-users-with-battery-drain-bug-1 | OnePlus 3 review: Google's Pixel price hike leaves OnePlus out its own | Alphr
+https://thepihut.com/products/raspberry-pi-3-media-centre-kit | Media Center Kit for the Raspberry Pi - The Pi Hut
+
+https://www.typescriptlang.org/docs/tutorial.html | Quick start · TypeScript
+https://www.typescriptlang.org/docs/handbook/asp-net-core.html | ASP.NET Core · TypeScript
+http://tutorialzine.com/2016/07/learn-typescript-in-30-minutes/ | Learn TypeScript in 30 Minutes | Tutorialzine
+http://www.typescriptlang.org/docs/handbook/jsx.html | JSX · TypeScript
+http://www.typescriptlang.org/docs/handbook/advanced-types.html | Advanced Types · TypeScript
+http://www.typescriptlang.org/docs/handbook/namespaces.html | Namespaces · TypeScript
+http://www.typescriptlang.org/docs/handbook/enums.html | Enums · TypeScript
+https://code.tutsplus.com/tutorials/getting-started-with-typescript--net-28890 | Getting Started with TypeScript
+http://blog.teamtreehouse.com/getting-started-typescript | Getting Started with TypeScript - Treehouse Blog
+https://code.visualstudio.com/docs/languages/typescript#_format-code | TypeScript Programming with Visual Studio Code
+https://code.visualstudio.com/docs/editor/tasks | Tasks in Visual Studio Code
+https://www.typescriptlang.org/docs/handbook/tsconfig-json.html | tsconfig.json · TypeScript
+
+https://www.safaribooksonline.com/search/?query=Robert%20Sedgewick&field=authors&highlight=true&is_academic_institution_account=false&extended_publisher_data=true&include_orioles=true&source=user&page=2 | Search for : Safari
+https://www.safaribooksonline.com/library/view/algorithms-third-edition/9780768685336/ | Algorithms Third Edition in C++
+https://www.safaribooksonline.com/library/view/essential-algorithms-a/9781118612101/ | Essential Algorithms: A Practical Approach to Computer Algorithms
+https://www.safaribooksonline.com/library/view/essential-algorithms-a/9781118612101/16_chapter08.html#c08 | CHAPTER 8: Hash Tables - Essential Algorithms: A Practical Approach to Computer Algorithms
+https://www.safaribooksonline.com/library/view/essential-algorithms-a/9781118612101/14_chapter06.html#c06 | CHAPTER 6: Sorting - Essential Algorithms: A Practical Approach to Computer Algorithms
+https://www.safaribooksonline.com/library/view/essential-algorithms-a/9781118612101/18_chapter10.html#c10 | CHAPTER 10: Trees - Essential Algorithms: A Practical Approach to Computer Algorithms
+https://www.safaribooksonline.com/library/view/algorithms-fourth-edition/9780132762564/ | Algorithms, Fourth Edition
+https://www.safaribooksonline.com/library/view/algorithms-fourth-edition/9780132762564/ch04.html | Four. Graphs - Algorithms, Fourth Edition
+https://www.safaribooksonline.com/library/view/algorithms-in-a/9781491912973/ch04.html#heap-sort | 4. Sorting Algorithms - Algorithms in a Nutshell, 2nd Edition
+
+https://www.safaribooksonline.com/library/view/mastering-typescript/9781784399665/ch02s02.html | Functions - Mastering TypeScript
+https://www.safaribooksonline.com/library/view/mastering-typescript/9781784399665/ch02s03.html | Summary - Mastering TypeScript
+https://www.safaribooksonline.com/library/view/mastering-typescript/9781784399665/ch03.html | 3. Interfaces, Classes and Generics - Mastering TypeScript
+https://www.safaribooksonline.com/library/view/mastering-typescript/9781784399665/ch03s02.html | Classes - Mastering TypeScript
+https://www.safaribooksonline.com/library/view/mastering-typescript/9781784399665/ch03s03.html | Inheritance - Mastering TypeScript
+https://www.safaribooksonline.com/library/view/mastering-typescript/9781784399665/ch03s04.html | The Factory Design Pattern - Mastering TypeScript
+https://www.safaribooksonline.com/library/view/mastering-typescript/9781784399665/ch03s05.html | Class modifiers - Mastering TypeScript
+https://www.safaribooksonline.com/library/view/mastering-typescript/9781784399665/ch03s06.html | Generics - Mastering TypeScript
+https://www.safaribooksonline.com/library/view/mastering-typescript/9781784399665/ch03s07.html | Runtime type checking - Mastering TypeScript
+https://www.safaribooksonline.com/library/view/mastering-typescript/9781784399665/ch03s08.html | Summary - Mastering TypeScript
+https://www.safaribooksonline.com/library/view/mastering-typescript/9781784399665/ch04.html | 4. Writing and Using Declaration Files - Mastering TypeScript
+https://www.safaribooksonline.com/library/view/mastering-typescript/9781784399665/ch04s02.html | Using JavaScript code blocks in HTML - Mastering TypeScript
+https://www.safaribooksonline.com/library/view/mastering-typescript/9781784399665/ch04s03.html | Writing your own declaration file - Mastering TypeScript
+
+https://medium.com/hi-my-name-is-jon/i-use-one-meditation-technique-to-calm-my-brain-9a6a5fb1d99d#.wrfrcg9t7 | I use one meditation technique to calm my brain – Creatomic – Medium
+
+https://aws.amazon.com/marketplace/pp/B01M0AXXQB?qid=1475211685369&sr=0-1&ref_=srh_res_product_title | Deep Learning AMI on AWS Marketplace
+
+http://definitelytyped.org/ | Home | DefinitelyTyped
+https://www.typescriptlang.org/samples/ | Samples · TypeScript
+https://github.com/Microsoft/TypeScriptSamples | Microsoft/TypeScriptSamples: Samples for TypeScript
+https://github.com/Microsoft/TypeScriptSamples/tree/master/d3 | TypeScriptSamples/d3 at master · Microsoft/TypeScriptSamples
+https://github.com/Microsoft/TypeScriptSamples/tree/master/warship | TypeScriptSamples/warship at master · Microsoft/TypeScriptSamples
+https://github.com/Microsoft/TypeScriptSamples/tree/master/jquery | TypeScriptSamples/jquery at master · Microsoft/TypeScriptSamples
+https://hstefanski.wordpress.com/2015/06/07/creating-a-chart-with-d3-and-typescript-part-1/ | Creating a chart with D3 and TypeScript – part 1 | Wandering in the community
+
+http://blog.kubernetes.io/2015/11/creating-a-Raspberry-Pi-cluster-running-Kubernetes-the-shopping-list-Part-1.html | Kubernetes: Creating a Raspberry Pi cluster running Kubernetes, the shopping list (Part 1)
+http://blog.hypriot.com/getting-started-with-docker-and-windows-on-the-raspberry-pi/ | How to get Docker running on your Raspberry Pi using Windows · Docker Pirates ARMed with explosive stuff
+http://blog.hypriot.com/downloads/ | Downloads · Docker Pirates ARMed with explosive stuff
+https://www.google.co.uk/search?q=raspberry+pi+kubernetes&oq=raspberry+pi+ku&aqs=chrome.0.69i59j69i57j0l4.6029j0j7&sourceid=chrome&ie=UTF-8 | raspberry pi kubernetes - Google Search
+https://medium.com/google-cloud/everything-you-need-to-know-about-the-kubernetes-raspberry-pi-cluster-2a2413bfa0fa#.nqpqtni70 | Everything you need to know about the Kubernetes Raspberry Pi cluster – Google Cloud Platform — Community – Medium
+https://ro14nd.de/kubernetes-on-raspberry-pi3 | A Raspberry Pi 3 Kubernetes Cluster – Roland Huß
+https://opensource.com/life/16/2/build-a-kubernetes-cloud-with-raspberry-pi | Build a Kubernetes cloud with Raspberry Pi | Opensource.com
+
+http://www.instructables.com/id/Raspberry-Pi-Video-Streaming/step2/Enable-Raspicam/ | Raspberry Pi Video Streaming - All
+http://www.raspberry-projects.com/pi/pi-hardware/raspberry-pi-camera/streaming-video-using-vlc-player | Streaming Video Using VLC Player – Raspberry Pi Projects
+http://raspberrypi.stackexchange.com/questions/23182/how-to-stream-video-from-raspberry-pi-camera-and-watch-it-live | raspbian - How to stream video from raspberry Pi camera and watch it live - Raspberry Pi Stack Exchange
+http://elinux.org/RPi-Cam-Web-Interface | RPi-Cam-Web-Interface - eLinux.org
+
+http://blog.hypriot.com/post/run-docker-rpi3-with-wifi/ | Run Docker on a Raspberry Pi 3 with onboard WiFi · Docker Pirates ARMed with explosive stuff
+http://blog.hypriot.com/getting-started-with-docker-on-your-arm-device/ | Getting started with Docker on your Raspberry Pi · Docker Pirates ARMed with explosive stuff
+https://www.raspberrypi.org/blog/docker-comes-to-raspberry-pi/ | Docker comes to Raspberry Pi - Raspberry Pi
+
+https://www.elastic.co/blog/arduino-based-home-weather-station-on-the-elastic-stack?ultron=aug-2016&blade=newsletter&hulk=email&mkt_tok=eyJpIjoiWlRVMFpHTmhNVGt3WVRBMiIsInQiOiJNTStwaXZqVFkxQk9GWit5XC9kUTZldmN1N0VFSFwvV0RoMXpldlR3MmR2Qkc0aXdrNTRHM0lCOVlZNHp6ZkJxbWJrN2dCSWt0SzNXNVN6anRZMm1vYjFEMXpVdzltZGlpXC9JN2l2RDBYRjZyTT0ifQ%3D%3D | An Arduino-Based Home Weather Station Built with Arduino, Elasticsearch, and Kibana | Elastic
+https://www.adafruit.com/product/2821 | Adafruit Feather HUZZAH with ESP8266 WiFi ID: 2821 - $15.95 : Adafruit Industries, Unique & fun DIY electronics and kits
+https://www.adafruit.com/products/1603 | BMP180 Barometric Pressure/Temperature/Altitude Sensor- 5V ready ID: 1603 - $9.95 : Adafruit Industries, Unique & fun DIY electronics and kits
+https://www.adafruit.com/products/64 | Half-size breadboard ID: 64 - $5.00 : Adafruit Industries, Unique & fun DIY electronics and kits
+https://www.adafruit.com/products/1957 | Premium Male/Male Jumper Wires - 20 x 6 (150mm) ID: 1957 - $1.95 : Adafruit Industries, Unique & fun DIY electronics and kits
+https://www.adafruit.com/products/1603?q=lithium& | BMP180 Barometric Pressure/Temperature/Altitude Sensor- 5V ready ID: 1603 - $9.95 : Adafruit Industries, Unique & fun DIY electronics and kits
+
+http://velocityjs.org/ | Velocity.js
+https://github.com/julianshapiro/velocity | julianshapiro/velocity: Accelerated JavaScript animation.
+https://www.sitepoint.com/top-9-animation-libraries-use-2016/ | Top 9 Animation Libraries to Use in 2016
+https://github.com/daneden/animate.css | daneden/animate.css: A cross-browser library of CSS animations. As easy to use as an easy thing.
+
+http://stackify.com/15-lessons-learned-while-converting-from-asp-net-to-net-core/ | 15 Lessons Learned while Converting from ASP.NET to .NET Core – Stackify
+
+http://blog.deepgram.com/how-to-get-a-job-in-deep-learning/ | How to Get a Job In Deep Learning
+http://www.teglor.com/b/deep-learning-libraries-language-cm569/ | Deep Learning Libraries by Language
+http://cs231n.stanford.edu/syllabus.html | Stanford University CS231n: Convolutional Neural Networks for Visual Recognition
+
+https://personal.vanguard.com/us/funds/snapshot?FundId=0696&FundIntExt=INT | Vanguard - Vanguard Target Retirement 2040 Fund
+https://institutional.vanguard.com/VGApp/iip/site/institutional/investments/portfoliodetails?fundId=1657 | Vanguard - Portfolio - Target Retire 2040 Tr P
+http://www.forbes.com/sites/baldwin/2013/06/05/the-trouble-with-target-funds/#4f64341b3199 | The Trouble With Target Funds
+https://personal.vanguard.com/us/funds/snapshot?FundId=0696&FundIntExt=INT | Vanguard - Vanguard Target Retirement 2040 Fund
+http://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000X4GD | Vanguard Target Retirement 2040 Fund Accumulation...|GB00BZ6VK781
+https://www.google.co.uk/search?espv=2&biw=1366&bih=662&q=retirement+portfolio+allocation+models&sa=X&ved=0ahUKEwjUtd6TuazPAhVrCMAKHXStAQAQ1QIIVCgB | retirement portfolio allocation models - Google Search
+https://www.google.co.uk/search?espv=2&biw=1366&bih=662&q=retirement+portfolio+allocation+by+age&sa=X&ved=0ahUKEwjUtd6TuazPAhVrCMAKHXStAQAQ1QIIVSgC | retirement portfolio allocation by age - Google Search
+http://www.forbes.com/sites/greatspeculations/2015/04/23/two-rules-of-asset-allocation-to-follow-at-any-age/#4504f06af6f7 | Two Asset Allocation Rules You Need To Follow At Any Age
+https://www.google.co.uk/search?espv=2&biw=1366&bih=662&q=retirement+portfolio+allocation+calculator&sa=X&ved=0ahUKEwjUtd6TuazPAhVrCMAKHXStAQAQ1QIIVigD | retirement portfolio allocation calculator - Google Search
+https://www.calcxml.com/calculators/inv01 | How should I allocate my assets? | Calculators by CalcXML
+https://www.google.co.uk/search?espv=2&biw=1366&bih=662&q=recommended+retirement+portfolio+allocation&sa=X&ved=0ahUKEwjUtd6TuazPAhVrCMAKHXStAQAQ1QIIVygE | recommended retirement portfolio allocation - Google Search
+http://money.cnn.com/retirement/guide/investing_basics.moneymag/index7.htm | What's the best asset allocation for my age? - Ultimate Guide to Retirement
+http://www.schwab.com/public/schwab/investing/retirement_and_planning/saving_for_retirement/retirement_calculator | Retirement Calculator | Charles Schwab
+
+https://bl.ocks.org/boeric/6a83de20f780b42fadb9 | D3 Real Time Chart with Multiple Data Streams - bl.ocks.org
+http://jsfiddle.net/cqDA9/1/ | Edit fiddle - JSFiddle
+http://canvasjs.com/html5-javascript-dynamic-chart/ | Dynamic / Real-Time JavaScript Charts | CanvasJS
+http://smoothiecharts.org/ | Smoothie Charts: A JavaScript Charting Library for Streaming Data
+
+https://blogs.msdn.microsoft.com/dotnet/2016/09/26/introducing-net-standard/ | Introducing .NET Standard | .NET Blog
+https://news.ycombinator.com/item?id=12583514 | Introducing .NET Standard | Hacker News
+https://www.microsoft.com/en-us/springfield/ | Project Springfield
+https://blogs.msdn.microsoft.com/dotnet/2016/09/26/introducing-net-standard/ | Introducing .NET Standard | .NET Blog
+
+https://vsavkin.com/writing-angular-2-in-typescript-1fa77c78d8e8#.u25efaalj | Angular 2: Why TypeScript?
+
+http://natureofcode.com/ | The Nature of Code
+http://natureofcode.com/book/ | The Nature of Code
+http://natureofcode.com/book/introduction/ | The Nature of Code
+http://natureofcode.com/book/chapter-1-vectors/ | The Nature of Code
+http://natureofcode.com/book/chapter-2-forces/ | The Nature of Code
+
+https://code.visualstudio.com/docs/languages/typescript | TypeScript Programming with Visual Studio Code
+https://blogs.msdn.microsoft.com/typescript/2015/04/30/using-typescript-in-visual-studio-code/ | Using TypeScript in Visual Studio Code | TypeScript
+http://blog.wolksoftware.com/setting-up-your-typescript-vs-code-development-environment | Setting up a TypeScript + Visual Studio Code development environment
+
+https://github.com/hardmaru?tab=repositories | hardmaru (hardmaru) / Repositories
+https://github.com/shiffman/The-Nature-of-Code-Examples | shiffman/The-Nature-of-Code-Examples: Repository for example code from The Nature of Code book
+https://github.com/LeavesBreathe/tensorflow_with_latest_papers | LeavesBreathe/tensorflow_with_latest_papers: Implementation of Newest RNN and Seq2Seq Features
+https://github.com/hardmaru/neuralslimevolley | hardmaru/neuralslimevolley: Neural Slime Volleyball
+http://blog.otoro.net/2015/05/07/creatures-avoiding-planks/ | creatures avoiding planks | 大トロ
+
+https://www.google.co.uk/search?q=javascript+games+tutorial&oq=javascript+games&aqs=chrome.2.69i57j0l5.5784j0j7&sourceid=chrome&ie=UTF-8 | javascript games tutorial - Google Search
+https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript | 2D breakout game using pure JavaScript - Game development | MDN
+http://www.w3schools.com/graphics/game_intro.asp | HTM Game Example
+http://gamequeryjs.com/documentation/first-tutorial/ | gameQuery - a javascript game engine with jQuery
+
+http://uk.businessinsider.com/question-you-should-always-ask-at-the-end-of-every-job-interview-2016-9 | The one question you should always ask at the end of a job interview - Business Insider
+http://uk.businessinsider.com/expert-who-has-read-40000-resumes-says-this-is-the-biggest-mistake-people-make-2016-9 | Experts say these are the biggest mistakes people make on their résumés - Business Insider
+
+http://stackoverflow.com/questions/27534746/importing-financial-data-into-python-pandas-using-read-csv | csv - Importing financial data into Python Pandas using read_csv - Stack Overflow
+http://stackoverflow.com/questions/23539832/how-to-calculate-percentage-with-pandas-dataframe | python - How to calculate percentage with Pandas' DataFrame - Stack Overflow
+http://pandas.pydata.org/pandas-docs/stable/generated/pandas.read_csv.html | pandas.read_csv — pandas 0.18.1 documentation
+https://www.google.co.uk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=pandas%20show%20selected%20columns | pandas show selected columns - Google Search
+https://www.google.co.uk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=matplotlib+data+frame+ | matplotlib data frame - Google Search
+http://pandas.pydata.org/pandas-docs/version/0.17.0/generated/pandas.DataFrame.plot.pie.html | pandas.DataFrame.plot.pie — pandas 0.17.0 documentation
+http://pandas.pydata.org/pandas-docs/version/0.13.1/visualization.html | Plotting with matplotlib — pandas 0.13.1 documentation
+http://stackoverflow.com/questions/29498652/plot-bar-graph-from-pandas-dataframe | python - Plot bar graph from Pandas DataFrame - Stack Overflow
+
+https://shop.pimoroni.com/products/raspberry-pi-7-touchscreen-display-with-frame | Raspberry Pi 7" Touchscreen Display with Stand - Pimoroni
+https://shop.pimoroni.com/collections/raspberry-pi/products/adafruit-rgb-matrix-hat-rtc-for-raspberry-pi-mini-kit | Adafruit RGB Matrix HAT + RTC for Raspberry Pi - Mini Kit - Pimoroni
+
+https://azure.microsoft.com/en-gb/documentation/articles/virtual-machines-windows-extensions-customscript/ | Custom scripts on Windows VMs using templates | Microsoft Azure
+https://github.com/Azure/azure-linux-extensions/tree/master/CustomScript | azure-linux-extensions/CustomScript at master · Azure/azure-linux-extensions
+https://github.com/Azure/azure-quickstart-templates/blob/master/201-customscript-extension-public-storage-on-ubuntu/azuredeploy.json | azure-quickstart-templates/azuredeploy.json at master · Azure/azure-quickstart-templates
+
+https://azure.microsoft.com/en-us/blog/powershell-is-open-sourced-and-is-available-on-linux/ | PowerShell is open sourced and is available on Linux | Blog | Microsoft Azure
+https://news.ycombinator.com/item?id=12313179 | PowerShell is open sourced and is available on Linux | Hacker News
+
+http://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/ | Summarising, Aggregating, and Grouping data in Python Pandas | Shane Lynn
+http://pandas.pydata.org/pandas-docs/stable/groupby.html | Group By: split-apply-combine — pandas 0.18.1 documentation
+http://www.gallamine.com/2014/07/python-pandas-group-by-column-and-sum.html | Gallamine's Scientific Computing Blog: Python Pandas Group by Column A and Sum Contents of Column B
+http://stackoverflow.com/questions/14941366/pandas-sort-by-group-aggregate-and-column | python - Pandas sort by group aggregate and column - Stack Overflow
+http://stackoverflow.com/questions/21030693/vlookup-equivalent-function-to-look-up-value-in-pandas-dataframe | lookup - VLOOKUP equivalent function to look up value in pandas DataFrame - Stack Overflow
+http://stackoverflow.com/questions/17450857/using-python-pandas-lookup-another-dataframe-and-return-corresponding-values | using python pandas lookup another dataframe and return corresponding values - Stack Overflow
+http://pandas.pydata.org/pandas-docs/version/0.17.0/generated/pandas.DataFrame.lookup.html | pandas.DataFrame.lookup — pandas 0.17.0 documentation
+
+https://openai.com/blog/infrastructure-for-deep-learning/ | Infrastructure for Deep Learning
+
+https://www.google.co.uk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=matplotlib%20pie%20chart%20dataframe | matplotlib pie chart dataframe - Google Search
+http://stackoverflow.com/questions/25805082/unable-to-pie-plot-my-data-in-pandas-python | matplotlib - Unable to pie-plot my data in pandas python - Stack Overflow
+http://stackoverflow.com/questions/21090316/plotting-pandas-dataframes-in-to-pie-charts-using-matplotlib | Plotting Pandas DataFrames in to Pie Charts using matplotlib - Stack Overflow
+http://chrisalbon.com/python/matplotlib_pie_chart.html | Pie Chart In MatPlotLib - Python
+https://www.analyticsvidhya.com/blog/2015/05/data-visualization-python/ | 9 popular ways to perform Data Visualization in Python | Analytics Vidhya
+
+https://github.com/docker/docker | docker/docker: Docker - the open-source application container engine
+https://github.com/veggiemonk/awesome-docker | veggiemonk/awesome-docker: A curated list of Docker resources and projects
+
+https://www.safaribooksonline.com/library/view/getting-started-with/9781786468574/ch03.html | 3. Starting with Machine Learning - Getting Started with TensorFlow
+https://www.safaribooksonline.com/library/view/large-scale-machine/9781785887215/ | Large Scale Machine Learning with Python
+https://www.safaribooksonline.com/library/view/large-scale-machine/9781785887215/ch01s03.html#ch01lvl3sec06 | Python packages - Large Scale Machine Learning with Python
+https://www.safaribooksonline.com/library/view/hello-tensorflow/9781491971628/ch01.html | 1. Hello, Tensorflow! - Hello, Tensorflow!
+https://en.wikipedia.org/wiki/Activation_function#Comparison_of_activation_functions | Activation function - Wikipedia, the free encyclopedia
+http://neuralnetworksanddeeplearning.com/chap1.html | Neural networks and deep learning
+
+https://www.google.co.uk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=pandas%20import%20csv | pandas import csv - Google Search
+http://pandas.pydata.org/pandas-docs/stable/generated/pandas.read_csv.html | pandas.read_csv — pandas 0.18.1 documentation
+https://www.google.co.uk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=pandas+pie+chart | pandas pie chart - Google Search
+http://pandas.pydata.org/pandas-docs/version/0.18.1/tutorials.html | Tutorials — pandas 0.18.1 documentation
+http://pandas.pydata.org/pandas-docs/stable/10min.html | 10 Minutes to pandas — pandas 0.18.1 documentation
+http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/ | Intro to pandas data structures
+http://pandas.pydata.org/pandas-docs/stable/visualization.html | Visualization — pandas 0.18.1 documentation
+http://pandas.pydata.org/pandas-docs/version/0.17.0/generated/pandas.DataFrame.plot.pie.html | pandas.DataFrame.plot.pie — pandas 0.17.0 documentation
+http://stackoverflow.com/questions/21090316/plotting-pandas-dataframes-in-to-pie-charts-using-matplotlib | Plotting Pandas DataFrames in to Pie Charts using matplotlib - Stack Overflow
+
+https://www.google.co.uk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=pandas%20merge%20on%20index | pandas merge on index - Google Search
+http://pandas.pydata.org/pandas-docs/stable/merging.html | Merge, join, and concatenate — pandas 0.18.1 documentation
+http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.merge.html | pandas.DataFrame.merge — pandas 0.18.1 documentation
+http://stackoverflow.com/questions/23787072/python-pandas-join-dataframes-on-index | Python Pandas join dataframes on index - Stack Overflow
+http://stackoverflow.com/questions/14341805/pandas-merge-pd-merge-how-to-set-the-index-and-join | python - Pandas Merge (pd.merge) How to set the index and join - Stack Overflow
+http://stackoverflow.com/questions/23668427/pandas-joining-multiple-dataframes-on-columns | python - pandas joining multiple dataframes on columns - Stack Overflow
+http://chrisalbon.com/python/pandas_join_merge_dataframe.html | Join And Merge Pandas Dataframe - Python
+https://www.google.co.uk/search?q=pandas+merge+two+columns&oq=pandas+merge&aqs=chrome.2.69i59j69i57j0l4.3040j0j7&sourceid=chrome&ie=UTF-8 | pandas merge two columns - Google Search
+http://stackoverflow.com/questions/19377969/combine-two-columns-of-text-in-dataframe-in-pandas-python | Combine two columns of text in dataframe in pandas/python - Stack Overflow
+http://stackoverflow.com/questions/10972410/pandas-combine-two-columns-in-a-dataframe | python - pandas: combine two columns in a DataFrame - Stack Overflow
+http://chrisalbon.com/python/pandas_join_merge_dataframe.html | Join And Merge Pandas Dataframe - Python
+https://pandas-docs.github.io/pandas-docs-travis/10min.html | 10 Minutes to pandas — pandas 0.18.1+409.g10bf721.dirty documentation
+
+https://backchannel.com/an-exclusive-look-at-how-ai-and-machine-learning-work-at-apple-8dbfb131932b#.tgpkabg2g | An Exclusive Look at How AI and Machine Learning Work at Apple – Backchannel
+https://drive.google.com/file/d/0B_wzP_JlVFcKYXZKTkJWUWE2NjA/view?pref=2&pli=1 | talk_Montreal_2016_Salakhutdinov.pdf - Google Drive
+https://medium.com/@ageitgey/ | Adam Geitgey – Profile – Medium
+
+http://uk.businessinsider.com/a-sample-resume-for-marissa-mayer-2016-7 | Read a sample résumé for Marissa Mayer - Business Insider
+http://blog.enhancv.com/marissa-mayer-resume/ | The Success Journey: Marissa Mayer's Pre-Yahoo Resume
+
+http://blog.goodstuff.im/docker_not_prime_time | Post: Docker Not Ready for Prime Time
+http://www.linux-toys.com/?p=684 | Linux-toys.com » Blog Archive » The Sad State of Docker
+
+https://msdn.microsoft.com/en-us/virtualization/windowscontainers/quick_start/quick_start_windows_server?f=255&MSPPError=-2147217396 | Windows Containers on Windows Server
+https://msdn.microsoft.com/en-us/virtualization/windowscontainers/quick_start/quick_start_images?f=255&MSPPError=-2147217396 | Container Deployment Quick Start - Images
+https://msdn.microsoft.com/en-gb/virtualization/windowscontainers/about/about_overview | About Windows Containers
+https://azure.microsoft.com/en-gb/blog/containers-docker-windows-and-trends/ | Containers: Docker, Windows and Trends | Blog | Microsoft Azure
+
+https://blogs.msdn.microsoft.com/virtual_pc_guy/2014/09/19/changing-ubuntu-screen-resolution-in-a-hyper-v-vm/ | Changing Ubuntu Screen Resolution in a Hyper-V VM | Ben Armstrong’s Virtualization Blog
+http://askubuntu.com/questions/384602/ubuntu-hyper-v-guest-display-resolution | virtualization - Ubuntu Hyper-V Guest Display Resolution - Ask Ubuntu
+http://askubuntu.com/questions/702628/ubuntu-hyper-v-guest-display-resolution-win-10-15-04 | virtualization - Ubuntu Hyper-V Guest Display Resolution Win 10 + 15.04 - Ask Ubuntu
+
+http://www.asp.net/signalr/overview/guide-to-the-api/hubs-api-guide-javascript-client | ASP.NET SignalR Hubs API Guide - JavaScript Client | The ASP.NET Site
+http://www.asp.net/signalr/overview/guide-to-the-api/hubs-api-guide-server | ASP.NET SignalR Hubs API Guide - Server (C#) | The ASP.NET Site
+http://www.asp.net/signalr | SignalR | The ASP.NET Site
+http://www.asp.net/signalr/overview/getting-started/introduction-to-signalr | Introduction to SignalR | The ASP.NET Site
+http://www.asp.net/signalr/overview/getting-started/tutorial-getting-started-with-signalr | Tutorial: Getting Started with SignalR 2 | The ASP.NET Site
+http://www.asp.net/signalr/overview/getting-started/tutorial-high-frequency-realtime-with-signalr | Tutorial: High-Frequency Realtime with SignalR 2 | The ASP.NET Site
+http://www.asp.net/signalr/overview/getting-started/real-time-web-applications-with-signalr | Hands On Lab: Real-Time Web Applications with SignalR | The ASP.NET Site
+https://code.msdn.microsoft.com/Using-SignalR-in-WinForms-f1ec847b | Using SignalR in WinForms and WPF in C# for Visual Studio 2013
+https://www.google.co.uk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=signal%20r%20tutorial | signal r tutorial - Google Search
+http://www.codeproject.com/Tips/590660/Introduction-to-SignalR | Introduction to SignalR - CodeProject
+http://www.dispatchertimer.com/signalr/signalr-tutorial-a-simple-chat-application-using-signalr-and-angularjs/ | SignalR Tutorial, Part 1: A Simple Chat Application using SignalR and AngularJS – Threading.DispatcherTimer
+http://www.codemag.com/article/1210071 | The Simplest Thing Possible: Creating Push Notifications with SignalR
+http://gigi.nullneuron.net/gigilabs/getting-started-with-signalr/ | Getting Started with SignalR | Gigi Labs
+
+http://uk.businessinsider.com/bedtime-rituals-will-pay-off-forever-2016-8/#disconnect-from-work-1 | Bedtime rituals that are hard to adopt, but will pay off forever - Business Insider
+
+https://code.visualstudio.com/docs/languages/python | Python with Visual Studio Code
+https://github.com/DonJayamanne/pythonVSCode | DonJayamanne/pythonVSCode: Python support for Visual Studio Code
+https://channel9.msdn.com/Series/Visual-Studio-Code-for-Mac-Developers/22-Python | 22. Python | Visual Studio Code for Mac Developers | Channel 9
+https://channel9.msdn.com/Events/Build/2016/B887 | Best of Visual Studio Code: Tips and Tricks | Build 2016 | Channel 9
+
+https://redmondmag.com/articles/2014/07/24/private-vs-internal-virtual-switches.aspx | Hyper-V Private vs. Internal Virtual Switches: Which to Choose? -- Redmondmag.com
+https://hyperv.veeam.com/blog/how-to-configure-hyper-v-virtual-switch/ | How to configure Hyper-V Virtual Switch – Educative Tips
+
+https://www.google.co.uk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=ipconfig%20renew%20specific%20adapter | ipconfig renew specific adapter - Google Search
+https://technet.microsoft.com/en-gb/library/bb490921.aspx | Ipconfig
+http://superuser.com/questions/607199/possible-to-ipconfig-release-renew-for-only-one-nic | windows - Possible to ipconfig release/renew for only one nic? - Super User
+https://technet.microsoft.com/en-gb/library/bb490921.aspx | Ipconfig
+http://helpdeskgeek.com/networking/release-and-renew-an-ip-address/ | How to Release and Renew an IP Address
+https://blogs.technet.microsoft.com/heyscriptingguy/2014/01/15/using-powershell-to-find-connected-network-adapters/ | Using PowerShell to Find Connected Network Adapters | Hey, Scripting Guy! Blog
+https://www.maketecheasier.com/view-network-adapter-details-in-windows/ | How To View The Network Adapter Details In Windows
+
+http://www.windowscentral.com/how-set-and-manage-network-bridge-connection-windows-10 | How to set up and manage a Network Bridge connection on Windows 10 | Windows Central
+https://technet.microsoft.com/en-us/library/jj134956(v=wps.630).aspx | Network Adapter Cmdlets in Windows PowerShell
+https://technet.microsoft.com/en-us/library/cc754586(v=ws.10).aspx | Netsh Commands for Network Bridge
+https://technet.microsoft.com/en-us/library/jj717268(v=ws.11).aspx | Windows PowerShell Cmdlets for Networking
+https://technet.microsoft.com/library/hh967440.aspx | Data Center Bridging (DCB) Quality of Service (QoS) Cmdlets in Windows PowerShell
+
+http://www.101cookbooks.com/archives/001570.html | How to Make Pesto like an Italian Grandmother Recipe - 101 Cookbooks
+http://www.bbcgoodfood.com/recipes/cod-chorizo-stew | Cod & chorizo stew | BBC Good Food
+http://www.lovepotatoes.co.uk/recipes/pan-seared-cod-with-potatoes-and-chorizo/ | Pan Seared Cod with Potatoes & Chorizo | Love Potatoes
+http://www.eatingwell.com/recipe/249612/baked-cod-with-chorizo-white-beans/ | Baked Cod with Chorizo & White Beans Recipe - EatingWell.com
+
+https://www.elastic.co/blog/arduino-based-home-weather-station-on-the-elastic-stack?ultron=aug-2016&blade=newsletter&hulk=email&mkt_tok=eyJpIjoiWlRVMFpHTmhNVGt3WVRBMiIsInQiOiJNTStwaXZqVFkxQk9GWit5XC9kUTZldmN1N0VFSFwvV0RoMXpldlR3MmR2Qkc0aXdrNTRHM0lCOVlZNHp6ZkJxbWJrN2dCSWt0SzNXNVN6anRZMm1vYjFEMXpVdzltZGlpXC9JN2l2RDBYRjZyTT0ifQ%3D%3D | An Arduino-Based Home Weather Station Built with Arduino, Elasticsearch, and Kibana | Elastic
+https://shop.pimoroni.com/ | Pimoroni - Raspberry Pi, Adafruit, SparkFun from the UK
+http://blog.pimoroni.com/the-internet-of-seeds/ | The Internet of Seeds
