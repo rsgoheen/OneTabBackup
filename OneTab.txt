@@ -1,3 +1,48 @@
+https://app.convertkit.com/landing_pages/156584?v=6 | Waking the Fuck Up Challenge | Fully Rich Life
+
+https://www.martinrandall.com/londons-underground-railway | London's Underground Railway | Martin Randall Travel
+
+https://www.hackerrank.com/dashboard | Dashboard | HackerRank
+https://www.codingame.com/start | Practice coding with fun programming challenges - CodinGame
+https://www.freecodecamp.com/ | Learn to Code and Help Nonprofits | Free Code Camp
+https://github.com/jwasham/google-interview-university | jwasham/google-interview-university: A complete computer science study plan to become a software engineer.
+
+https://secure.actblue.com/contribute/page/lav-signup?action_code=FgxRWxYUOVIKQV0YA0gD&td=VVHLbtQwFP0Vy6tWmhg7SfOYbkBIFKmUBVPUBSDLSW4Sq05sOTbQIv6d63aYQlY5r_vyL9rbuAb_QPf084HuKCxKGwSTnQHW11OCrLcLSqP2W1jVAih_sh34gKRRJ-7qKYLco3YI20bUNSIPg_bQBxl9KoyMnKIejr-yU8bYcETWBfk9aWs0Zkc3G32fSt9Bt-kA5OCw30zeWZ8G2mJ3ciB0s13hFA0WG8tRG9jo_ss3ZPS0RidHzMqn9jlmeg8qgBzSADkXdcbzTBREFPuy3pfti0M7qYbBo62pmGgaJtqWXfAXQ9zASzXBmkrd2EdtjPr66oJxcnan18H-2MjHWyI445cEiaq8JD-r8py8cc4A7netA9qLmhUVObt-f3vzYUeMvgdyBf29PSdvZ28XQEvFOMvbvGRNTQ5qVF7_zaVhZuUCDpIWFDvamYjLKb09oKDX5725GKEdiyYbxVhkQkCVqUHlGf_nS8-Nhzq-7P_nR22xQzRwVJ8PS3__AQ | ActBlue — Welcome to the Let America Vote Team
+https://www.aclu.org/issues/voting-rights | Voting Rights | American Civil Liberties Union
+
+http://www.bbcgoodfood.com/recipes/roasted-cauliflower-hazelnut-carbonara | Roasted cauliflower & hazelnut carbonara | BBC Good Food
+https://www.washingtonpost.com/lifestyle/food/love-hazelnuts-love-this-pasta/2016/08/01/900eb422-5287-11e6-b7de-dfe509430c39_story.html?utm_term=.6d242087e392 | Love hazelnuts, love this pasta - The Washington Post
+http://www.foodnetwork.com/recipes/giada-de-laurentiis/peas-and-prosciutto-recipe | Peas and Prosciutto Recipe | Giada De Laurentiis | Food Network
+http://www.foodnetwork.com/recipes/food-network-kitchen/roasted-cauliflower-risotto-recipe | Roasted Cauliflower Risotto Recipe | Food Network Kitchen | Food Network
+http://www.jamieoliver.com/recipes/pasta-recipes/pasta-pesto/ | Pesto pasta with chicken | Pasta recipes | Jamie Oliver
+http://www.101cookbooks.com/archives/001570.html | How to Make Pesto like an Italian Grandmother Recipe - 101 Cookbooks
+
+http://hypermammut.sourceforge.net/paulstretch/ | Paul's Extreme Sound Stretch
+
+http://www.newyorker.com/magazine/2017/01/02/bachs-holy-dread | Bach’s Holy Dread - The New Yorker
+https://www.reddit.com/r/programming/ | programming
+https://hackernoon.com/the-best-way-to-learn-new-technologies-is-by-doing-heres-some-inspiration-6ca144216790#.dnil8wrhj | The best way to learn new technologies is by doing. Here’s some inspiration.
+https://www.reddit.com/r/dotnet/ | .NET
+
+https://vaadin.com/docs/-/part/elements/vaadin-date-picker/vaadin-date-picker-localization.html | Docs - vaadin.com Localization · Vaadin
+
+https://blogs.msdn.microsoft.com/dotnet/ | .NET Blog | A first-hand look from the .NET engineering teams
+
+http://www.fast.ai/ | fast.ai · Making neural nets uncool again
+http://course.fast.ai/lessons/lesson1.html | Synopsis
+
+http://rodneybrooks.com/unexpected-consequences-of-self-driving-cars/ | Unexpected Consequences of Self Driving Cars – Rodney Brooks
+http://pages.tacc.utexas.edu/~eijkhout/istc/istc.html | Intro to High Performance Scientific Computing
+
+http://karpathy.github.io/neuralnets/ | Hacker's guide to Neural Networks
+
+http://neuralnetworksanddeeplearning.com/chap1.html | Neural networks and deep learning
+http://neuralnetworksanddeeplearning.com/chap2.html | Neural networks and deep learning
+http://neuralnetworksanddeeplearning.com/chap3.html | Neural networks and deep learning
+http://neuralnetworksanddeeplearning.com/chap4.html | Neural networks and deep learning
+http://neuralnetworksanddeeplearning.com/chap5.html | Neural networks and deep learning
+http://neuralnetworksanddeeplearning.com/chap6.html | Neural networks and deep learning
+
 https://www.google.co.uk/search?q=Angular+2+Services&oq=Angular+2+Services&aqs=chrome..69i57j69i60&sourceid=chrome&ie=UTF-8 | Angular 2 Services - Google Search
 https://angular.io/docs/ts/latest/tutorial/toh-pt4.html | Services - ts - TUTORIAL
 https://www.tutorialspoint.com/angular2/angular2_services.htm | Angular 2 Services
@@ -54,7 +99,6 @@ http://stackoverflow.com/questions/13323851/python-3-counting-matches-in-two-lis
 http://stackoverflow.com/questions/1388818/how-can-i-compare-two-lists-in-python-and-return-matches | How can I compare two lists in python and return matches - Stack Overflow
 http://stackoverflow.com/questions/37979785/counting-match-between-two-arrays-at-same-index-position-and-having-non-zero-val | python - Counting match between two arrays at same index position and having non zero values - Stack Overflow
 
-https://www.google.co.uk/search?q=algorithm+for+generating+words+from+integers&oq=algorithm+for+generating+words+from+integers&aqs=chrome..69i57.8670j0j7&sourceid=chrome&ie=UTF-8#q=algorithm+convert+number+to+words+python | algorithm convert number to words python - Google Search
 http://stackoverflow.com/questions/8982163/how-do-i-tell-python-to-convert-integers-into-words | How do I tell Python to convert integers into words - Stack Overflow
 http://stackoverflow.com/questions/19504350/how-to-convert-numbers-to-words-in-python | How to Convert numbers to Words in Python - Stack Overflow
 https://www.quora.com/How-do-I-convert-numbers-to-words-in-Python | How do I convert numbers to words in Python? - Quora
@@ -109,23 +153,17 @@ http://www.nytimes.com/2016/11/23/theater/how-to-master-an-accent.html?_r=0 | Ho
 
 https://www.bloomberg.com/news/features/2016-11-29/the-man-who-invented-libor-iw3fpmed | The Man Who Invented Libor - Bloomberg
 
-https://www.google.co.uk/search?q=fizz+buzz+tensorflow&oq=fizz+buzz+tensorflow&aqs=chrome..69i57j0.5964j0j7&sourceid=chrome&ie=UTF-8 | fizz buzz tensorflow - Google Search
 http://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/ | Joel Grus – Fizz Buzz in Tensorflow
 https://github.com/joelgrus/fizz-buzz-tensorflow/blame/master/fizz_buzz.py | fizz-buzz-tensorflow/fizz_buzz.py at master · joelgrus/fizz-buzz-tensorflow
 
 http://blog.irvingwb.com/blog/2016/10/is-ai-finally-reaching-a-tipping-point.html | Irving Wladawsky-Berger: Has AI (Finally) Reached a Tipping Point?
 https://www.infoq.com/presentations/spotify-culture-stc?utm_source=infoqWeeklyNewsletter&utm_medium=WeeklyNL_EditorialContent_culture-methods&utm_campaign=10252016news#downloadPdf | There is No Spotify Model
 
-http://stackoverflow.com/questions/4752626/epoch-vs-iteration-when-training-neural-networks | terminology - Epoch vs iteration when training neural networks - Stack Overflow
-http://stackoverflow.com/questions/31155388/meaning-of-an-epoch-in-neural-networks-training | machine learning - Meaning of an Epoch in Neural Networks Training - Stack Overflow
 https://neuralsniffer.wordpress.com/2010/09/15/how-many-epochs-to-train-standalone-nn/ | How many epochs to train? (standalone NN) | Neural Sniffer
-https://www.quora.com/What-is-the-difference-between-iterations-and-epochs-in-Convolution-neural-networks | What is the difference between iterations and epochs in Convolution neural networks? - Quora
 https://www.researchgate.net/post/How_does_one_choose_optimal_number_of_epochs | How does one choose optimal number of epochs? - ResearchGate
-https://www.google.co.uk/search?q=neural+network+training+batch+size&oq=neural+network+training+batc&aqs=chrome.0.0j69i57j0l3.9056j0j7&sourceid=chrome&ie=UTF-8 | neural network training batch size - Google Search
 http://stats.stackexchange.com/questions/153531/what-is-batch-size-in-neural-network | python - What is batch size in neural network? - Cross Validated
 http://stats.stackexchange.com/questions/140811/how-large-should-the-batch-size-be-for-stochastic-gradient-descent | machine learning - How large should the batch size be for stochastic gradient descent? - Cross Validated
 https://www.quora.com/Intuitively-how-does-mini-batch-size-affect-the-performance-of-stochastic-gradient-descent | Intuitively, how does mini-batch size affect the performance of (stochastic) gradient descent? - Quora
-https://www.quora.com/Intuitively-how-does-batch-size-impact-a-convolutional-network-training | Intuitively, how does batch size impact a convolutional network training? - Quora
 https://visualstudiomagazine.com/articles/2014/08/01/batch-training.aspx | Understanding Neural Network Batch Training: A Tutorial -- Visual Studio Magazine
 
 https://jekyllrb.com/docs/configuration/ | Configuration - Jekyll • Simple, blog-aware, static sites
@@ -150,8 +188,6 @@ https://news.ycombinator.com/item?id=12821586 | Sub-millisecond GC pauses in Go 
 
 https://sidbala.com/h-264-is-magic/ | H.264 is magic: a technical walkthrough of a remarkable technology.
 https://www.youtube.com/playlist?list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf | MIT 6.851 Advanced Data Structures, Spring 2012 - YouTube
-http://www.indeed.co.uk/prime | Indeed Prime | Indeed.co.uk
-chrome-search://local-ntp/local-ntp.html | New Tab
 
 http://www.nybooks.com/daily/2016/11/10/trump-election-autocracy-rules-for-survival/ | Autocracy: Rules for Survival | by Masha Gessen | NYR Daily | The New York Review of Books
 https://hbr.org/2016/11/what-so-many-people-dont-get-about-the-u-s-working-class | What So Many People Don’t Get About the U.S. Working Class
@@ -183,8 +219,6 @@ http://playground.tensorflow.org/#activation=tanh&batchSize=22&dataset=spiral&re
 
 https://www.theguardian.com/business/2016/oct/06/liquid-assets-how--business-bottled-water-went-mad | Liquid assets: how the business of bottled water went mad | Sophie Elmhirst | Business | The Guardian
 http://www.newyorker.com/magazine/2016/10/10/imagining-a-cashless-world | Imagining a Cashless World - The New Yorker
-
-chrome://history/ | History
 
 https://golang.org/pkg/net/ | net - The Go Programming Language
 http://thenewstack.io/make-a-restful-json-api-go/ | Making a RESTful JSON API in Go - The New Stack
@@ -259,10 +293,7 @@ https://www.google.fr/search?q=go+import+statement&oq=go+import+statement&aqs=ch
 https://golang.org/ref/spec#Import_declarations | The Go Programming Language Specification - The Go Programming Language
 https://golang.org/doc/code.html | How to Write Go Code - The Go Programming Language
 
-http://www.bloomberg.com/news/articles/2016-09-08/silicon-valley-s-job-hungry-say-we-re-not-to-old-for-this | It’s Tough Being Over 40 in Silicon Valley - Bloomberg
-https://news.ycombinator.com/item?id=12454634 | It’s Tough Being Over 40 in Silicon Valley | Hacker News
 https://news.ycombinator.com/item?id=12595998 | Not Just Any Old Geek | Hacker News
-https://blog.oldgeekjobs.com/from-google-form-to-1000-in-revenue-in-one-month-3f5cd75b6089#.fni37b3os | From Google form to $1000 in revenue in one month
 
 https://www.bignerdranch.com/blog/developing-alexa-skills-locally-with-nodejs-deploying-your-skill-to-staging/ | Developing Alexa Skills Locally with Node.js: Deploying Your Skill to Staging | Big Nerd Ranch
 https://developer.amazon.com/appsandservices/community/post/Tx3DV6ANE5HTG9H/Big-Nerd-Ranch-Series-Developing-Alexa-Skills-Locally-with-Node-js-Setting-Up-Yo | Big Nerd Ranch Series: Developing Alexa Skills Locally with Node.js: Setting Up Your Local Environment (part 1 of 6) - Amazon Mobile App Distribution Blog
@@ -373,12 +404,8 @@ https://institutional.vanguard.com/VGApp/iip/site/institutional/investments/port
 http://www.forbes.com/sites/baldwin/2013/06/05/the-trouble-with-target-funds/#4f64341b3199 | The Trouble With Target Funds
 https://personal.vanguard.com/us/funds/snapshot?FundId=0696&FundIntExt=INT | Vanguard - Vanguard Target Retirement 2040 Fund
 http://www.morningstar.co.uk/uk/funds/snapshot/snapshot.aspx?id=F00000X4GD | Vanguard Target Retirement 2040 Fund Accumulation...|GB00BZ6VK781
-https://www.google.co.uk/search?espv=2&biw=1366&bih=662&q=retirement+portfolio+allocation+models&sa=X&ved=0ahUKEwjUtd6TuazPAhVrCMAKHXStAQAQ1QIIVCgB | retirement portfolio allocation models - Google Search
-https://www.google.co.uk/search?espv=2&biw=1366&bih=662&q=retirement+portfolio+allocation+by+age&sa=X&ved=0ahUKEwjUtd6TuazPAhVrCMAKHXStAQAQ1QIIVSgC | retirement portfolio allocation by age - Google Search
 http://www.forbes.com/sites/greatspeculations/2015/04/23/two-rules-of-asset-allocation-to-follow-at-any-age/#4504f06af6f7 | Two Asset Allocation Rules You Need To Follow At Any Age
-https://www.google.co.uk/search?espv=2&biw=1366&bih=662&q=retirement+portfolio+allocation+calculator&sa=X&ved=0ahUKEwjUtd6TuazPAhVrCMAKHXStAQAQ1QIIVigD | retirement portfolio allocation calculator - Google Search
 https://www.calcxml.com/calculators/inv01 | How should I allocate my assets? | Calculators by CalcXML
-https://www.google.co.uk/search?espv=2&biw=1366&bih=662&q=recommended+retirement+portfolio+allocation&sa=X&ved=0ahUKEwjUtd6TuazPAhVrCMAKHXStAQAQ1QIIVygE | recommended retirement portfolio allocation - Google Search
 http://money.cnn.com/retirement/guide/investing_basics.moneymag/index7.htm | What's the best asset allocation for my age? - Ultimate Guide to Retirement
 http://www.schwab.com/public/schwab/investing/retirement_and_planning/saving_for_retirement/retirement_calculator | Retirement Calculator | Charles Schwab
 
@@ -501,10 +528,6 @@ https://msdn.microsoft.com/en-us/virtualization/windowscontainers/quick_start/qu
 https://msdn.microsoft.com/en-gb/virtualization/windowscontainers/about/about_overview | About Windows Containers
 https://azure.microsoft.com/en-gb/blog/containers-docker-windows-and-trends/ | Containers: Docker, Windows and Trends | Blog | Microsoft Azure
 
-https://blogs.msdn.microsoft.com/virtual_pc_guy/2014/09/19/changing-ubuntu-screen-resolution-in-a-hyper-v-vm/ | Changing Ubuntu Screen Resolution in a Hyper-V VM | Ben Armstrong’s Virtualization Blog
-http://askubuntu.com/questions/384602/ubuntu-hyper-v-guest-display-resolution | virtualization - Ubuntu Hyper-V Guest Display Resolution - Ask Ubuntu
-http://askubuntu.com/questions/702628/ubuntu-hyper-v-guest-display-resolution-win-10-15-04 | virtualization - Ubuntu Hyper-V Guest Display Resolution Win 10 + 15.04 - Ask Ubuntu
-
 http://www.asp.net/signalr/overview/guide-to-the-api/hubs-api-guide-javascript-client | ASP.NET SignalR Hubs API Guide - JavaScript Client | The ASP.NET Site
 http://www.asp.net/signalr/overview/guide-to-the-api/hubs-api-guide-server | ASP.NET SignalR Hubs API Guide - Server (C#) | The ASP.NET Site
 http://www.asp.net/signalr | SignalR | The ASP.NET Site
@@ -528,14 +551,6 @@ https://channel9.msdn.com/Events/Build/2016/B887 | Best of Visual Studio Code: T
 
 https://redmondmag.com/articles/2014/07/24/private-vs-internal-virtual-switches.aspx | Hyper-V Private vs. Internal Virtual Switches: Which to Choose? -- Redmondmag.com
 https://hyperv.veeam.com/blog/how-to-configure-hyper-v-virtual-switch/ | How to configure Hyper-V Virtual Switch – Educative Tips
-
-https://www.google.co.uk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=ipconfig%20renew%20specific%20adapter | ipconfig renew specific adapter - Google Search
-https://technet.microsoft.com/en-gb/library/bb490921.aspx | Ipconfig
-http://superuser.com/questions/607199/possible-to-ipconfig-release-renew-for-only-one-nic | windows - Possible to ipconfig release/renew for only one nic? - Super User
-https://technet.microsoft.com/en-gb/library/bb490921.aspx | Ipconfig
-http://helpdeskgeek.com/networking/release-and-renew-an-ip-address/ | How to Release and Renew an IP Address
-https://blogs.technet.microsoft.com/heyscriptingguy/2014/01/15/using-powershell-to-find-connected-network-adapters/ | Using PowerShell to Find Connected Network Adapters | Hey, Scripting Guy! Blog
-https://www.maketecheasier.com/view-network-adapter-details-in-windows/ | How To View The Network Adapter Details In Windows
 
 http://www.windowscentral.com/how-set-and-manage-network-bridge-connection-windows-10 | How to set up and manage a Network Bridge connection on Windows 10 | Windows Central
 https://technet.microsoft.com/en-us/library/jj134956(v=wps.630).aspx | Network Adapter Cmdlets in Windows PowerShell
