@@ -1,3 +1,25 @@
+http://www.vegrecipesofindia.com/upma-savoury-south-indian-breakfast-recipe-made-with-semolina/ | upma recipe, how to make rava upma recipe | upma recipes
+
+http://karpathy.github.io/2016/05/31/rl/ | Deep Reinforcement Learning: Pong from Pixels
+http://karpathy.github.io/2015/05/21/rnn-effectiveness/ | The Unreasonable Effectiveness of Recurrent Neural Networks
+
+http://mattwarren.org/ | Performance is a Feature!
+
+https://www.bloomberg.com/news/articles/2017-02-09/silicon-valley-fights-trump-in-its-free-time | Silicon Valley Fights Trump in Its Free Time - Bloomberg
+
+https://www.hackerrank.com/domains/tutorials/30-days-of-code | Solve 30 Days of Code Questions | Tutorials | HackerRank
+https://www.hackerrank.com/domains/algorithms/constructive-algorithms/page:1 | Solve Constructive Algorithms Questions | Algorithms | HackerRank
+https://www.hackerrank.com/challenges/kmp-problem | Yet Another KMP Problem | Algorithms Question | HackerRank
+https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm | Knuth–Morris–Pratt algorithm - Wikipedia
+https://www.hackerrank.com/challenges/beautiful-3-set | Beautiful 3 Set | Algorithms Question | HackerRank
+https://www.hackerrank.com/challenges/inverse-rmq | Inverse RMQ | Algorithms Question | HackerRank
+https://en.wikipedia.org/wiki/Range_minimum_query | Range minimum query - Wikipedia
+https://www.hackerrank.com/challenges/self-balancing-tree | Self Balancing Tree | Data Structures Question | HackerRank
+https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle | Cycle Detection | Data Structures Question | HackerRank
+
+http://course.fast.ai/lessons/aws.html | Practical Deep Learning For Coders—18 hours of lessons for free
+http://course.fast.ai/lessons/lesson1.html | Practical Deep Learning For Coders—18 hours of lessons for free
+
 https://app.convertkit.com/landing_pages/156584?v=6 | Waking the Fuck Up Challenge | Fully Rich Life
 
 https://www.martinrandall.com/londons-underground-railway | London's Underground Railway | Martin Randall Travel
