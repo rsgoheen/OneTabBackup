@@ -1,3 +1,29 @@
+https://en.wikipedia.org/wiki/String_searching_algorithm | String searching algorithm - Wikipedia
+https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm | Knuth–Morris–Pratt algorithm - Wikipedia
+https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-string-searching-algorithms/ | Introduction to String Searching Algorithms – topcoder
+http://algs4.cs.princeton.edu/lectures/53SubstringSearch.pdf | String Searching
+http://www.cs.princeton.edu/courses/archive/spring11/cos226/demo/53KnuthMorrisPratt.pdf | 53KnuthMorrisPratt.key
+http://www-igm.univ-mlv.fr/~lecroq/string/ | ESMAJ
+http://www-igm.univ-mlv.fr/~lecroq/string/node8.html#SECTION0080 | Knuth-Morris-Pratt algorithm
+http://www-igm.univ-mlv.fr/~lecroq/string/node3.html#SECTION0030 | Brute force algorithm
+http://www-igm.univ-mlv.fr/~lecroq/string/node4.html#SECTION0040 | Research with an automaton
+http://www-igm.univ-mlv.fr/~lecroq/string/node5.html#SECTION0050 | Karp-Rabin algorithm
+http://algs4.cs.princeton.edu/53substring/RabinKarp.java.html | RabinKarp.java
+http://algs4.cs.princeton.edu/53substring/Brute.java.html | Brute.java
+http://algs4.cs.princeton.edu/53substring/KMP.java.html | KMP.java
+http://algs4.cs.princeton.edu/53substring/KMPplus.java.html | KMPplus.java
+http://algs4.cs.princeton.edu/53substring/BoyerMoore.java.html | BoyerMoore.java
+http://www.personal.kent.edu/~rmuhamma/Algorithms/MyAlgorithms/StringMatch/kuthMP.htm | Knuth-Morris-Pratt Algorithm
+http://www.cs.ubc.ca/~Hoos/cpsc445/Handouts/kmp.pdf | kmp.pdf
+
+https://www.gov.uk/transferring-your-pension/overview | Transferring your pension - GOV.UK
+https://www.moneyadviceservice.org.uk/en/categories/pensions-and-retirement | Pensions and retirement - Money Advice Service
+https://www.pensionsadvisoryservice.org.uk/about-pensions/when-things-change/transferring-your-pension | Transferring your pension | The Pensions Advisory Service
+https://www.pensionsadvisoryservice.org.uk/about-pensions/pensions-basics/contract-based-schemes/self-invested-personal-pensions-sipp | Self-invested personal pensions | The Pensions Advisory Service
+https://www.pensionsadvisoryservice.org.uk/about-pensions/pensions-basics/contract-based-schemes/personal-pensions | Personal pensions | The Pensions Advisory Service
+https://www.google.co.uk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=sipp&* | sipp - Google Search
+https://www.barclaysstockbrokers.co.uk/media/Pages/sipp-2015.aspx?WT.mc_id=paid_search-google-bsl_sip_generic_exact-generic_sipp-sipp&kwcid=1&WT.srch=1&cid=paid_search-google-bsl_sip_generic_exact-generic_sipp-sipp&gclid=CjwKEAiA3NTFBRDKheuO6IG43VQSJAA74F77-y2udfyLnKqQ2n1z7ZabUr1RUEBdRVttn0U5SEm7ThoCiTnw_wcB | Self Invested Personal Pension - Barclays Stockbrokers
+
 http://www.vegrecipesofindia.com/upma-savoury-south-indian-breakfast-recipe-made-with-semolina/ | upma recipe, how to make rava upma recipe | upma recipes
 
 http://karpathy.github.io/2016/05/31/rl/ | Deep Reinforcement Learning: Pong from Pixels
